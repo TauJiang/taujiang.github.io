@@ -1,10 +1,10 @@
 ---
 title: "CSCE 656 Assignment 2"
 permalink: /656/Assignment2
-excerpt: "<br/><img src='/images/_DSC1950ps.jpeg'>"
+excerpt: "<br/><img src='/images/DSC1950ps.jpeg'>"
 collection: portfolio
 ---
-![Photo of Yingtao Jiang](/images/_DSC1950ps.jpeg)
+![Photo of Yingtao Jiang](/images/DSC1950ps.jpeg)
 ## Three Common Themes
 - Visual and Audio Media: This media theme is based on visual information with some audio aided.([reference 1](http://people.tamu.edu/~asees/media.html), [reference 2](https://people.tamu.edu/~kieranbeirne01/index.html), [reference 4](https://brineypw.wixsite.com/piercebriney), [reference 7](https://sites.google.com/view/tommygarriga/home))
 <br>
